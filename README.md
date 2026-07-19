@@ -28,14 +28,10 @@ This project is a Machine Learning-based Fake News Detection System that classif
 The dataset is too large to upload to GitHub.
 
 Download it from Google Drive:
-https://drive.google.com/file/d/1kuWBfMnjoz9-zjPKNrtqLNSHC-hXwxp4/view?usp=drive_link
 
-After downloading, extract `dataset.zip` and place the files in the `dataset/` folder.
-
+Fake_News_Dataset =  https://drive.google.com/file/d/1V2beeZst4c7BCCeoMEhAORSKR5Yxqsby/view?usp=drive_link
+True_News_Dataset =  https://drive.google.com/file/d/18Bkyfhb-nbKB6xYhkkHyJ7Sk-g98dQZn/view?usp=drive_link
 > Due to GitHub file size limitations, the dataset is not included in this repository.
-
-Dataset Source:
-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ## How to Run
 1. Clone or download this repository.
