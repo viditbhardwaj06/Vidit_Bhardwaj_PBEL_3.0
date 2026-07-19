@@ -30,7 +30,9 @@ The dataset is too large to upload to GitHub.
 Download it from Google Drive:
 
 Fake_News_Dataset =  https://drive.google.com/file/d/1V2beeZst4c7BCCeoMEhAORSKR5Yxqsby/view?usp=drive_link
+
 True_News_Dataset =  https://drive.google.com/file/d/18Bkyfhb-nbKB6xYhkkHyJ7Sk-g98dQZn/view?usp=drive_link
+
 > Due to GitHub file size limitations, the dataset is not included in this repository.
 
 ## How to Run
